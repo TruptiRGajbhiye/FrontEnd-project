@@ -1,0 +1,20 @@
+git config --gloabal user.name "TruptiRaGajbhiye"
+-->
+git config --global user.email "truptigajbhiye321@gmamil.com"
+-->
+shubham@trupti MINGW64 ~
+$ git config --global user.name "TruptiRGajbhiye"
+
+shubham@trupti MINGW64 ~
+$ git config --global user.email "truptigajbhiye321@gmail.com"
+
+shubham@trupti MINGW64 ~
+$ git init trupti
+Initialized empty Git repository in C:/Users/shubham/trupti/.git/
+
+shubham@trupti MINGW64 ~
+$ cd trupti
+
+shubham@trupti MINGW64 ~/trupti (master)
+$
+
