@@ -1,4 +1,4 @@
-git config --gloabal user.name "TruptiRaGajbhiye"
+git config --gloabal user.name "TruptiRGajbhiye"
 -->
 git config --global user.email "truptigajbhiye321@gmamil.com"
 -->
